@@ -30,22 +30,25 @@ This project analyzes the sentiment of Twitter data using a Logistic Regression 
 Clone the repository
 ```bash
 git clone https://github.com/Punith-Singh/sentiment-analysis.git
-cd sentiment
-cd src
 
 ## How to Run the Project
 
 ### Step 1: Clone the repository
 ```bash
 git clone https://github.com/yourusername/social-media-sentiment-analysis.git
-cd social-media-sentiment-analysis
+cd sentiment
+cd src
 
 ##Step 2: Create and activate a virtual environment (optional but recommended)
+
 ##Step 3: Install dependencies
+
 ##Step 4: Train the Logistic Regression model
-python train.py ( This command will train your model using the training dataset and save the trained model file )
+
+         python train.py ( This command will train your model using the training dataset and save the trained model file )
+
 ##Step 5: Run the Streamlit app
-streamlit run app.py ( This launches the interactive web app where you can input tweets, get sentiment predictions, and explore visualizations )
+         streamlit run app.py ( This launches the interactive web app where you can input tweets, get sentiment predictions, and explore visualizations )
 
 
 
